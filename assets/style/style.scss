@@ -1,0 +1,19 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.user_comment {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    height: 200px;
+}
+.textarea_comment {
+    width: 50%;
+    margin: 5px 0px;
+}
+
+.button_comment {
+    width: 10%;
+    margin-top: 5px;
+}
